@@ -1,1 +1,2 @@
 # Snake-Genetic-Algorithm
+This is a simple version of the snake game coded in python. The project implements a neural net as described in the book AI techniques for Game Programming. A Genetic Algorithm is used for optimising the Neural Net's parameters. The object is for the snake to find the target item to 'eat'. Currently, the rest of the snake has not been implemented, that is, only the snakes head is present - the snake is unable to 'eat' itself. This project is being improved upon in a different repository, namely by implementing a NEAT algorithm.
